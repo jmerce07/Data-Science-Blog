@@ -49,3 +49,6 @@ or other questions to ask.
 
 ### 5. Licensing, Authors, Acknowledgements, etc.
 I must acknowledge and thank AirBnB for making this data available. You can read their data policies here: http://insideairbnb.com/data-policies
+
+### Read my Blog
+https://medium.com/@jeremyamercer/this-data-might-make-you-list-your-house-on-airbnb-1ed1dc54a303
